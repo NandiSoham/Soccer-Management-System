@@ -1,0 +1,152 @@
+Club,id_team,id_stadium
+Almer,T-9001,STD-2101
+Athletic Bilbao,T-9002,STD-2102
+Athletico Madrid,T-9003,STD-2103
+Barcelona,T-9004,STD-2104
+Cadiz,T-9005,STD-2105
+Celta Vigo,T-9006,STD-2106
+Elche,T-9007,STD-2107
+Espanyol,T-9008,STD-2108
+Getafe,T-9009,STD-2109
+Girona,T-9010,STD-2110
+Mallorca,T-9011,STD-2111
+Osasuna,T-9012,STD-2112
+Rayo Vallecano,T-9013,STD-2113
+Real Betis,T-9014,STD-2114
+Real Madrid,T-9015,STD-2115
+Real Sociedad,T-9016,STD-2116
+Sevilla,T-9017,STD-2117
+Valencia,T-9018,STD-2118
+Valladolid,T-9019,STD-2119
+Villarreal,T-9020,STD-2120
+Arsenal,T-9021,STD-2121
+Aston Villa,T-9022,STD-2122
+Barnsley,T-9023,STD-2123
+Birmingham City,T-9024,STD-2124
+Blackburn Rovers,T-9025,STD-2125
+Blackpool,T-9026,STD-2126
+Bolton Wanderers,T-9027,STD-2127
+Bournemouth,T-9028,STD-2128
+Bradford City,T-9029,STD-2129
+Brentford,T-9030,STD-2130
+Brighton & Hove Albion,T-9031,STD-2131
+Burnley,T-9032,STD-2132
+Cardiff City,T-9033,STD-2133
+Charlton Athletic,T-9034,STD-2134
+Chelsea,T-9035,STD-2135
+Coventry City,T-9036,STD-2136
+Crystal Palace,T-9037,STD-2137
+Derby County,T-9038,STD-2138
+Everton,T-9039,STD-2139
+Fulham,T-9040,STD-2140
+Huddersfield Town,T-9041,STD-2141
+Hull City,T-9042,STD-2142
+Ipswich Town,T-9043,STD-2143
+Leeds United,T-9044,STD-2144
+Leicester City,T-9045,STD-2145
+Liverpool,T-9046,STD-2146
+Manchester City,T-9047,STD-2147
+Manchester United,T-9048,STD-2148
+Middlesbrough,T-9049,STD-2149
+Newcastle United,T-9050,STD-2150
+Norwich City,T-9051,STD-2151
+Nottingham Forest,T-9052,STD-2152
+Oldham Athletic,T-9053,STD-2153
+Portsmouth,T-9054,STD-2154
+Queens Park Rangers,T-9055,STD-2155
+Reading,T-9056,STD-2156
+Sheffield United,T-9057,STD-2157
+Sheffield Wednesday,T-9058,STD-2158
+Southampton,T-9059,STD-2159
+Stoke City,T-9060,STD-2160
+Sunderland,T-9061,STD-2161
+Swansea City,T-9062,STD-2162
+Swindon Town,T-9063,STD-2163
+Tottenham Hotspur,T-9064,STD-2164
+Watford,T-9065,STD-2165
+West Bromwich Albion,T-9066,STD-2166
+West Ham United,T-9067,STD-2167
+Wigan Athletic,T-9068,STD-2168
+FC Augsburgb,T-9069,STD-2169
+Bayer Leverkusenb,T-9070,STD-2170
+Bayern Munichb,T-9071,STD-2171
+VfL Bochum,T-9072,STD-2172
+Borussia Dortmunda,T-9073,STD-2173
+Borussia Manch,T-9074,STD-2174
+Eintracht Frankfurta,T-9075,STD-2175
+SC Freiburg,T-9076,STD-2176
+Hertha BSCa,T-9077,STD-2177
+Hoffenheimb,T-9078,STD-2178
+FC Kaplan,T-9079,STD-2179
+RB Leipzigb,T-9080,STD-2180
+Mainz,T-9081,STD-2181
+Schalke,T-9082,STD-2182
+VfB Stuttgarta,T-9083,STD-2183
+Union Berlinb,T-9084,STD-2184
+Werder Bremena,T-9085,STD-2185
+VfL Wolfsburgb,T-9086,STD-2186
+Ajaccio,T-9087,STD-2187
+Angers,T-9088,STD-2188
+Auxerre,T-9089,STD-2189
+Brest,T-9090,STD-2190
+Clermont,T-9091,STD-2191
+Lens,T-9092,STD-2192
+Lille,T-9093,STD-2193
+Lorient,T-9094,STD-2194
+Lyon,T-9095,STD-2195
+Marseille,T-9096,STD-2196
+Monaco,T-9097,STD-2197
+Montpellier,T-9098,STD-2198
+Nantes,T-9099,STD-2199
+Nice,T-9100,STD-2200
+Paris Saint-Germain,T-9101,STD-2201
+Reims,T-9102,STD-2202
+Rennes,T-9103,STD-2203
+Strasbourg,T-9104,STD-2204
+Toulouse,T-9105,STD-2205
+Troyes,T-9106,STD-2206
+Atalanta,T-9107,STD-2207
+Bologna,T-9108,STD-2208
+Cremonese,T-9109,STD-2209
+Empoli,T-9110,STD-2210
+Fiorentina,T-9111,STD-2211
+Hellas Verona,T-9112,STD-2212
+Inter Milan,T-9113,STD-2213
+Juventus,T-9114,STD-2214
+Lazio,T-9115,STD-2215
+Lecce,T-9116,STD-2216
+AC Milan,T-9117,STD-2217
+Monza,T-9118,STD-2218
+Napoli,T-9119,STD-2219
+Roma,T-9120,STD-2220
+Salernitana,T-9121,STD-2221
+Sampdoria,T-9122,STD-2222
+Sassuolo,T-9123,STD-2223
+Spezia,T-9124,STD-2224
+Torino,T-9125,STD-2225
+Udinese,T-9126,STD-2226
+Aldosivi,T-9127,STD-2227
+Argentinos Juniors,T-9128,STD-2228
+Atlatico Tucuma¡n,T-9129,STD-2229
+Banfield,T-9130,STD-2230
+Belgrano,T-9131,STD-2231
+Talleres,T-9132,STD-2232
+Boca Juniors,T-9133,STD-2233
+Colan,T-9134,STD-2234
+Defensa y Justicia,T-9135,STD-2235
+Estudiantes,T-9136,STD-2236
+Gimnasia y Esgrima,T-9137,STD-2237
+Godoy Cruz,T-9138,STD-2238
+Huracain,T-9139,STD-2239
+Independiente,T-9140,STD-2240
+Lanas,T-9141,STD-2241
+Newell's Old Boys,T-9142,STD-2242
+Patronato,T-9143,STD-2243
+Racing Club,T-9144,STD-2244
+River Plate,T-9145,STD-2245
+Rosario Central,T-9146,STD-2246
+San Lorenzo de Almagro,T-9147,STD-2247
+San Martan,T-9148,STD-2248
+Tigre,T-9149,STD-2249
+United 11,T-9150,STD-2250
+The street boys,,STD-2251
